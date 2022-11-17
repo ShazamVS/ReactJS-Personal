@@ -3,6 +3,7 @@
 // docs: Documentation only changes
 // feature: A new feature
 // fix: A bug fix
+// hotfix: An urgent bug fix that is effecting the site
 // performance: A code change that improves performance
 // refactor: A code change that neither fixes a bug nor adds a feature
 // style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
@@ -37,6 +38,7 @@ module.exports = {
         "docs",
         "feature",
         "fix",
+        "hotfix",
         "performance",
         "refactor",
         "revert",
